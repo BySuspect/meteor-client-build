@@ -1,4 +1,4 @@
-name: Build and Release
+name: Build Version
 
 on:
     workflow_dispatch:
